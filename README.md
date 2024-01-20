@@ -9,7 +9,8 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 
 # 2 LINUX
 [Linux kernel syscall tables](https://syscalls.mebeim.net/ "")  
-[跟我一起写makefile](https://seisman.github.io/how-to-write-makefile/variables.html "")
+[跟我一起写makefile](https://seisman.github.io/how-to-write-makefile/variables.html "")  
+[Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/ "")
 
 # 3 安全协议
 [tls1.2 tls1.3 dtls quic](https://xargs.org/ "")  
