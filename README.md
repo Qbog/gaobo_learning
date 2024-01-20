@@ -12,7 +12,8 @@ Linux kernel syscall tables, [there](https://syscalls.mebeim.net/ "")
 跟我一起写makefile，[there](https://seisman.github.io/how-to-write-makefile/variables.html "")
 
 # 3 安全协议
-tls1.2 tls1.3 dtls quic, [there](https://xargs.org/ "")
+tls1.2 tls1.3 dtls quic, [there](https://xargs.org/ "")  
+http指南 [there](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 
 # 4 密码学
 Elliptic Curve Cryptography, [there](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/ "")
