@@ -9,6 +9,7 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 
 # 2 LINUX
 Linux kernel syscall tables, [there](https://syscalls.mebeim.net/ "") 
+跟我一起写makefile，[three](https://seisman.github.io/how-to-write-makefile/variables.html "")
 
 # 3 安全协议
 tls1.2 tls1.3 dtls quic, [there](https://xargs.org/ "")
