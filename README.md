@@ -8,15 +8,15 @@ picoTCP, [source code](https://github.com/tass-belgium/picotcp "")
 Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 
 # 2 LINUX
-Linux kernel syscall tables, [there](https://syscalls.mebeim.net/ "")  
-跟我一起写makefile，[there](https://seisman.github.io/how-to-write-makefile/variables.html "")
+[Linux kernel syscall tables](https://syscalls.mebeim.net/ "")  
+[跟我一起写makefile](https://seisman.github.io/how-to-write-makefile/variables.html "")
 
 # 3 安全协议
-tls1.2 tls1.3 dtls quic, [there](https://xargs.org/ "")  
-http指南 [there](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+[tls1.2 tls1.3 dtls quic](https://xargs.org/ "")  
+[http指南](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 
 # 4 密码学
-Elliptic Curve Cryptography, [there](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/ "")
+[Elliptic Curve Cryptography](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/ "")
 
 # 5 编程语言
-Legitimate use-cases of VM types in C， [there](https://web.archive.org/web/20230324122404/https://blog.joren.ga/vla-usecases "")   
+[Legitimate use-cases of VM types in C](https://web.archive.org/web/20230324122404/https://blog.joren.ga/vla-usecases "")   
