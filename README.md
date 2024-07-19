@@ -22,3 +22,6 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 # 5 编程语言
 [Legitimate use-cases of VM types in C](https://web.archive.org/web/20230324122404/https://blog.joren.ga/vla-usecases "")   
 [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html "")   
+
+# 6 算法
+[hello algo](https://www.hello-algo.com/ "")
