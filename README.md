@@ -24,10 +24,11 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html "")   
 [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel "")
 [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
+[A Small C Compiler](https://github.com/rui314/chibicc)
 
 # 6 算法
 [hello algo](https://www.hello-algo.com/ "")
 
 # 7 博客
-[骏马金龙](https://junmajinlong.github.io/shell/index/index.html)
-[云风](https://blog.codingnow.com/)
+[骏马金龙](https://junmajinlong.github.io/shell/index/index.html “”)
+[云风](https://blog.codingnow.com/ "")
