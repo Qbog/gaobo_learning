@@ -24,6 +24,7 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html "")   
 [A Small C Compiler](https://github.com/rui314/chibicc)   
 [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)   
+[Writing a Linux Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)  
 
 
 # 6 算法
