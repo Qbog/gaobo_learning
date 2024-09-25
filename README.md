@@ -31,6 +31,7 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [A Small C Compiler](https://github.com/rui314/chibicc)   
 [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)   
 [Writing a Linux Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)  
+[Overview of GLIBC heap exploitation techniques](https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/)
 
 # 6 汇编
 [Nice ARMv8 AArch64/ARM64 tutorial](https://mariokartwii.com/armv8/)  
