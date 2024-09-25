@@ -12,12 +12,15 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [跟我一起写makefile](https://seisman.github.io/how-to-write-makefile/variables.html "")  
 [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/ "")  
 [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/ "")  
-[Introduction to x64 Linux Binary Exploitation](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-1-14ad4a27aeef)
+[Introduction to x64 Linux Binary Exploitation](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-1-14ad4a27aeef)  
+[A couple of interesting blog posts on hiding Linux processes](https://dfir.ch/posts/slash-proc/)  
+
 
 
 # 3 安全协议
 [tls1.2 tls1.3 dtls quic](https://xargs.org/ "")  
-[http指南](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+[http指南](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)  
+[Cryptography concepts introduction for beginners with practical examples in Linux \(openssl\)](https://sergioprado.blog/introduction-to-encryption-for-embedded-linux-developers/)  
 
 # 4 密码学
 [Elliptic Curve Cryptography](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/ "")
