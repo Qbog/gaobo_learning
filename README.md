@@ -36,9 +36,9 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [Nice ARMv8 AArch64/ARM64 tutorial](https://mariokartwii.com/armv8/)  
 
 
-# 6 算法
+# 7 算法
 [hello algo](https://www.hello-algo.com/ "") 
 
-# 7 博客
+# 8 博客
 [骏马金龙](https://junmajinlong.github.io/shell/index/index.html "")  
 [云风](https://blog.codingnow.com/ "") 
