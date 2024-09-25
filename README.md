@@ -32,6 +32,9 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)   
 [Writing a Linux Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)  
 
+# 6 汇编
+[Nice ARMv8 AArch64/ARM64 tutorial](https://mariokartwii.com/armv8/)  
+
 
 # 6 算法
 [hello algo](https://www.hello-algo.com/ "") 
