@@ -14,6 +14,7 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [Writing a system call tracer using eBPF](https://sh4dy.com/2024/08/03/beetracer/ "")  
 [Introduction to x64 Linux Binary Exploitation](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-1-14ad4a27aeef)  
 [A couple of interesting blog posts on hiding Linux processes](https://dfir.ch/posts/slash-proc/)  
+[Useful interactive map of the Linux kernel]( https://makelinux.github.io/kernel/map/)
 
 
 
