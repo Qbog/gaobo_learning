@@ -22,6 +22,8 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [tls1.2 tls1.3 dtls quic](https://xargs.org/ "")  
 [http指南](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)  
 [Cryptography concepts introduction for beginners with practical examples in Linux \(openssl\)](https://sergioprado.blog/introduction-to-encryption-for-embedded-linux-developers/)  
+[v2ray-vmess协议](https://note.tonycrane.cc/devops/protocol/vmess/)
+
 
 # 4 密码学
 [Elliptic Curve Cryptography](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/ "")
@@ -44,3 +46,6 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 # 8 博客
 [骏马金龙](https://junmajinlong.github.io/shell/index/index.html "")  
 [云风](https://blog.codingnow.com/ "") 
+
+# 9 其它
+[fwknop spa单包授权敲门技术](https://zhuanlan.zhihu.com/p/1950668461157123684)
