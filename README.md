@@ -30,6 +30,7 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 
 # 4 密码学
 [Elliptic Curve Cryptography](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/ "")
+[椭圆曲线加密算法与聚合签名原理解析](https://cloud.tencent.com/developer/article/2028466 "")  
 
 # 5 编程语言
 [Legitimate use-cases of VM types in C](https://web.archive.org/web/20230324122404/https://blog.joren.ga/vla-usecases "")   
