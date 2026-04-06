@@ -18,7 +18,7 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 
 
 
-# 3 安全协议
+# 3 协议相关
 [tls1.2 tls1.3 dtls quic](https://xargs.org/ "")  
 [http指南](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)  
 [Cryptography concepts introduction for beginners with practical examples in Linux \(openssl\)](https://sergioprado.blog/introduction-to-encryption-for-embedded-linux-developers/)  
@@ -26,6 +26,7 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [wireguard]()    
 [noise](1)   
 [ipsec](1)  
+[各种IP协议格式](https://support.huawei.com/enterprise/zh/doc/EDOC1100174722/f926746c)
 
 # 4 密码学
 [Elliptic Curve Cryptography](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/ "")
