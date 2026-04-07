@@ -1,0 +1,39 @@
+sm2 加密流程公式
+
+加密
+Input:
+    M (明文)
+    P (receiver public key)(公钥)
+
+1. k ← random （类似ECDH中的本方私钥的作用）
+2. C1 = kG
+3. S  = kP = (x_S, y_S) （类似ECDH生成的共享密钥）
+
+4. t = KDF(x_S || y_S, len(M))
+   if t == 0 → retry
+
+5. C2 = M XOR t （加密）
+
+6. C3 = SM3(x_S || M || y_S) （签名）
+
+7. Output: C1 || C3 || C2 （新）或者 C1 || C2 || C3 （老）
+
+
+解密
+Input:
+    C1, C2, C3
+    d (private key)
+
+1. S = dC1 = dkG = kP = (x_S, y_S)
+
+2. t = KDF(x_S || y_S, len(C2))
+
+3. M = C2 XOR t （解密）
+
+4. u = SM3(x_S || M || y_S)
+
+5. if u != C3 → FAIL
+
+6. return M
+
+
