@@ -64,4 +64,5 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [Galois/Counter Mode  伽罗瓦/计数模式 -- wikipedia](https://en.wikipedia.org/wiki/Galois/Counter_Mode)  
 
 # 10 其它
-[fwknop spa单包授权敲门技术](https://zhuanlan.zhihu.com/p/1950668461157123684)
+[fwknop spa单包授权敲门技术](https://zhuanlan.zhihu.com/p/1950668461157123684)  
+[Snort 3 Rule Writing Guide](https://docs.snort.org/rules/options/non_payload/flow)
