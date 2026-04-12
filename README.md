@@ -53,5 +53,15 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [骏马金龙](https://junmajinlong.github.io/shell/index/index.html "")  
 [云风](https://blog.codingnow.com/ "") 
 
-# 9 其它
+# 9 有限域
+[有限域的运算](https://zhuanlan.zhihu.com/p/601396586)  
+[谈谈有限域那些事儿](https://blog.csdn.net/qmickecs/article/details/77281602)  
+[伽罗瓦域上的乘法](https://blog.foool.net/2013/01/%E4%BC%BD%E7%BD%97%E7%93%A6%E5%9F%9F%E4%B8%8A%E7%9A%84%E4%B9%98%E6%B3%95/)  
+[有限域计算简述](https://zhuanlan.zhihu.com/p/262267121)  
+[伽罗华域（Galois Field）上的四则运算](https://blog.csdn.net/shelldon/article/details/54729687)  
+[有限域GF(2^8)的四则运算及拉格朗日插值](https://blog.csdn.net/luotuo44/article/details/41645597)  
+[伽罗华域(Galois Field，GF，有限域)乘法运算](http://blog.csdn.net/mengboy/article/details/1514445)  
+[Galois/Counter Mode  伽罗瓦/计数模式 -- wikipedia](https://en.wikipedia.org/wiki/Galois/Counter_Mode)  
+
+# 10 其它
 [fwknop spa单包授权敲门技术](https://zhuanlan.zhihu.com/p/1950668461157123684)
