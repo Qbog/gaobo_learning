@@ -32,6 +32,7 @@ Xiaochen Wang's TCP/IP stack, [source code](https://github.com/chobits/tapip "")
 [Elliptic Curve Cryptography](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/ "")  
 [椭圆曲线加密算法与聚合签名原理解析](https://cloud.tencent.com/developer/article/2028466 "")  
 [SM2的签名和验证过程](https://learnblockchain.cn/article/1507)  
+[How to choose an Authenticated Encryption mode](https://blog.cryptographyengineering.com/2012/05/19/how-to-choose-authenticated-encryption/)
 
 
 # 5 编程语言
